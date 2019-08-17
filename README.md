@@ -6,4 +6,4 @@ Binghui Xu
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 # Citation
-Please use the following citation for this capacity degradation model
+Please use the following citation 
